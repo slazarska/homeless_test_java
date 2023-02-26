@@ -15,7 +15,7 @@ allure {
     version = allureVersion
     autoconfigure = true
     aspectjweaver = true
-    configuration = "testImplementation"
+//    configuration = "testImplementation"
     useJUnit5 {
         version = allureVersion
     }
