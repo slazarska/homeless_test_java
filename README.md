@@ -1,15 +1,19 @@
-# Autotests for [Ночлежка](https://homeless.ru//)
-## Technology Stack
+# Автотесты для сайта проекта [Ночлежка](https://homeless.ru//)
+![image](src/test/resources/img/homeless_mainpage.png)
+## Автотесты написаны с использованием:
+Java Gradle IntelliJ IDEA Selenide Selenoid JUnit5 Jenkins Allure Report Allure TestOps Telegram
+![image](/src/test/resources/img/icons/Java.png)![image](/src/test/resources/img/icons/Gradle.png)![image](/src/test/resources/img/icons/Intelij_IDEA.png)![image](/src/test/resources/img/icons/Selenide.png)![image](/src/test/resources/img/icons/Selenoid.png)![image](/src/test/resources/img/icons/JUnit5.png)![image](/src/test/resources/img/icons/Jenkins.png)![image](/src/test/resources/img/icons/Allure_Report.png)![image](/src/test/resources/img/icons/AllureTestOps.png)![image](/src/test/resources/img/icons/Telegram.png)
+
 | Java | Gradle | Junit5 | Selenide | Jenkins | Selenoid | Allure Report | Allure TestOps | 
 |:----:|:------:|:------:|:--------:|:-------:|:--------:|:---------------:|:--------------:|
 | <img src="src/test/resources/img/Java.svg" width="40" height="40"> | <img src="src/test/resources/img/Gradle.svg" width="40" height="40"> | <img src="src/test/resources/img/JUnit5.svg" width="40" height="40"> | <img src="src/test/resources/img/Selenide.svg" width="40" height="40"> | <img src="src/test/resources/img/Jenkins.svg" width="40" height="40"> | <img src="src/test/resources/img/Selenoid.svg" width="40" height="40"> | <img src="src/test/resources/img/Allure_Report.svg" width="40" height="40"> | <img src="src/test/resources/img/Allure_EE.svg" width="40" height="40"> | 
 
-## Checks are implemented::
+## Список проверок, реализованных в автотестах:
 
 - [X] - Opening the main page
 - [X] - Check the default state of the main page (title, errors in console log)
 
-## Added video with tests run
+## Пример видеозаписи прохождения теста
 ![video]()
 <br><br>
 ## Screenshots
@@ -32,7 +36,7 @@
 ![image]()
 <br />
 <br />
-#### *Telegram notification configured:*
+#### *Настроено автоматическое оповещение о результатах запуска тестов в Jenkins в Telegram-чат:*
 ![image]()
 <br />
 <br />
