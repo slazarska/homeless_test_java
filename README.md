@@ -1,8 +1,6 @@
 # Автотесты для сайта проекта [Ночлежка](https://homeless.ru//)
 ![image](src/test/resources/img/homeless_mainpage.png)
 ## Автотесты написаны с использованием:
-Java Gradle IntelliJ IDEA Selenide Selenoid JUnit5 Jenkins Allure Report Allure TestOps Telegram
-![image](/src/test/resources/img/icons/Java.png)![image](/src/test/resources/img/icons/Gradle.png)![image](/src/test/resources/img/icons/Intelij_IDEA.png)![image](/src/test/resources/img/icons/Selenide.png)![image](/src/test/resources/img/icons/Selenoid.png)![image](/src/test/resources/img/icons/JUnit5.png)![image](/src/test/resources/img/icons/Jenkins.png)![image](/src/test/resources/img/icons/Allure_Report.png)![image](/src/test/resources/img/icons/AllureTestOps.png)![image](/src/test/resources/img/icons/Telegram.png)
 
 | Java | Gradle | Junit5 | Selenide | Jenkins | Selenoid | Allure Report | Allure TestOps | 
 |:----:|:------:|:------:|:--------:|:-------:|:--------:|:---------------:|:--------------:|
